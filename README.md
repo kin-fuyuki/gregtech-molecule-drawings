@@ -1,4 +1,4 @@
-# GregTech Molecule Drawings
+# GTNH Molecule Drawings
 
 This clientside only mod adds molecule drawings for organic molecules from GregTech CEu and its addons and modpacks in tooltips.
 
